@@ -1,7 +1,11 @@
 # PivotPlaneHinge
-*CTF: CUCTF 2020*
-*Category: Web*
-*Writeup Author: Jeffrey DiVincent*
+*CTF:* CUCTF 2020
+
+*Category:* Web
+
+*Point Value:* 463
+
+*Writeup Author:* [Jeffrey DiVincent](https://github.com/jeffreydivi/)
 
 ## Introduction
 
